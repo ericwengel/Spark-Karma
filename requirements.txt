@@ -1,4 +1,4 @@
-certifi==2018.4.16
+certifi==2022.12.7
 chardet==2.3.0
 ciscosparkapi==0.10
 Flask==0.12
